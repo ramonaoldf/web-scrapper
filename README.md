@@ -1,4 +1,4 @@
-# Web Scraper [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheAlphamerc%2Fweb-scrapper&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Web Scraper [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Framonaoldf%2Fweb-scrapper&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 Web Scraper is a simple Flask-based API that allows users to retrieve meta data from any website by passing its URL as a request parameter.
 
 ## How to Use the API
@@ -17,7 +17,7 @@ To set up the project, follow these steps:
 
 - Clone the repository to your local machine.
 ```bash
-git clone https://github.com/TheAlphamerc/web-scrapper
+git clone https://github.com/ramonaoldf/web-scrapper
 ```
 
 - Change into the project directory.
